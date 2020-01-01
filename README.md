@@ -1,13 +1,13 @@
-Flappy-Turtle
+Flappy-Bird
 =============
-
-A tutorial of writing a Flappy Bird clone in Python with builtin turtle module
+flappy bird game i decided to make
+note it is still very buggy please report bugs and sugestions to me
 
 To run it 
-```sh
+
 python3 flappybird.py
+or
+py flappybird.py
 ```
 
-You will need to install mplayer if you want to play with sound effect.
 
-All sound files are public domain found in http://www.pdsounds.org/
